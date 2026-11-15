@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "version": 1,
+  "updatedAt": "2026-11-15T18:22:50Z",
+  "files": {
+    "accessories": {
+      "path": "data/accessories.json",
+      "sha256": "d609f81171fcad4624014997ad8cbd908a6cd5da6fd17307901b6331c552b5c2",
+      "count": 15
+    },
+    "apparel": {
+      "path": "data/apparel.json",
+      "sha256": "8b89fac7c507136a35361461502f9bc9385c9ad9a8a04036d1fd43dd5e54c2a8",
+      "count": 18
+    },
+    "bags": {
+      "path": "data/bags.json",
+      "sha256": "39ab50abaab5ea0d1df51a63c51164925aa4fdeaa790db788745482335207b10",
+      "count": 12
+    },
+    "balls": {
+      "path": "data/balls.json",
+      "sha256": "3bc91e2cc6655e983f62def640670e15634f56a0e4d1ce93e3d292f68fca1774",
+      "count": 15
+    },
+    "rackets": {
+      "path": "data/rackets.json",
+      "sha256": "117792771832bb220559a5f9d6c69c2016ab8c72e9177cf15d16adc4382d8714",
+      "count": 45
+    },
+    "shoes": {
+      "path": "data/shoes.json",
+      "sha256": "5d138376545b405c32fd1759db93f16cc76fc4a6d9e17485f560cabb43afbacf",
+      "count": 30
+    },
+    "strings": {
+      "path": "data/strings.json",
+      "sha256": "f4c7d4f22052ece37efc2612394e404abf6c7904316e158b9b264fd417c4de53",
+      "count": 29
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "babolat-pure-drive-rh12",
+      "brand": "Babolat",
+      "model": "Pure Drive RH12",
+      "details": "Raqueteira para 12 raquetes",
+      "racketCapacity": 12
+    },
+    {
+      "id": "babolat-pure-aero-backpack",
+      "brand": "Babolat",
+      "model": "Pure Aero Backpack",
+      "details": "Mochila para 2 raquetes",
+      "racketCapacity": 2
+    },
+    {
+      "id": "babolat-pure-drive-rh6",
+      "brand": "Babolat",
+      "model": "Pure Drive RH6",
+      "details": "Raqueteira para 6 raquetes",
+      "racketCapacity": 6
+    },
+    {
+      "id": "wilson-super-tour-9-pack",
+      "brand": "Wilson",
+      "model": "Super Tour 9 Pack",
+      "details": "Raqueteira para 9 raquetes",
+      "racketCapacity": 9
+    },
+    {
+      "id": "wilson-tour-backpack",
+      "brand": "Wilson",
+      "model": "Tour Backpack",
+      "details": "Mochila para 2 raquetes",
+      "racketCapacity": 2
+    },
+    {
+      "id": "wilson-super-tour-15-pack",
+      "brand": "Wilson",
+      "model": "Super Tour 15 Pack",
+      "details": "Raqueteira grande",
+      "racketCapacity": 15
+    },
+    {
+      "id": "head-tour-racquet-bag-l",
+      "brand": "Head",
+      "model": "Tour Racquet Bag L",
+      "details": "Raqueteira grande",
+      "racketCapacity": 12
+    },
+    {
+      "id": "head-tour-backpack-28l",
+      "brand": "Head",
+      "model": "Tour Backpack 28L",
+      "details": "Mochila para 2 raquetes",
+      "racketCapacity": 2
+    },
+    {
+      "id": "yonex-pro-racquet-bag-9",
+      "brand": "Yonex",
+      "model": "Pro Racquet Bag 9",
+      "details": "Raqueteira para 9 raquetes",
+      "racketCapacity": 9
+    },
+    {
+      "id": "yonex-pro-backpack-s",
+      "brand": "Yonex",
+      "model": "Pro Backpack S",
+      "details": "Mochila compacta",
+      "racketCapacity": 2
+    },
+    {
+      "id": "tecnifibre-tour-endurance-15r",
+      "brand": "Tecnifibre",
+      "model": "Tour Endurance 15R",
+      "details": "Raqueteira para 15 raquetes",
+      "racketCapacity": 15
+    },
+    {
+      "id": "tecnifibre-tour-endurance-backpack",
+      "brand": "Tecnifibre",
+      "model": "Tour Endurance Backpack",
+      "details": "Mochila para 3 raquetes",
+      "racketCapacity": 3
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "luxilon-alu-power",
+      "brand": "Luxilon",
+      "name": "ALU Power",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster",
+        "mainsLbs": 52,
+        "crossesLbs": 50
+      }
+    },
+    {
+      "id": "luxilon-alu-power-soft",
+      "brand": "Luxilon",
+      "name": "ALU Power Soft",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster macio",
+        "mainsLbs": 52,
+        "crossesLbs": 50
+      }
+    },
+    {
+      "id": "luxilon-4g",
+      "brand": "Luxilon",
+      "name": "4G",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster",
+        "mainsLbs": 50,
+        "crossesLbs": 48
+      }
+    },
+    {
+      "id": "luxilon-element",
+      "brand": "Luxilon",
+      "name": "Element",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster macio",
+        "mainsLbs": 50,
+        "crossesLbs": 48
+      }
+    },
+    {
+      "id": "luxilon-adrenaline",
+      "brand": "Luxilon",
+      "name": "Adrenaline",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster",
+        "mainsLbs": 52,
+        "crossesLbs": 50
+      }
+    },
+    {
+      "id": "babolat-rpm-blast",
+      "brand": "Babolat",
+      "name": "RPM Blast",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster",
+        "mainsLbs": 52,
+        "crossesLbs": 50
+      }
+    },
+    {
+      "id": "babolat-rpm-rough",
+      "brand": "Babolat",
+      "name": "RPM Rough",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster texturizado",
+        "mainsLbs": 52,
+        "crossesLbs": 50
+      }
+    },
+    {
+      "id": "babolat-rpm-team",
+      "brand": "Babolat",
+      "name": "RPM Team",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster",
+        "mainsLbs": 52,
+        "crossesLbs": 50
+      }
+    },
+    {
+      "id": "babolat-xcel",
+      "brand": "Babolat",
+      "name": "Xcel",
+      "spec": {
+        "gauge": "1.30 mm",
+        "type": "Multifilamento",
+        "mainsLbs": 55,
+        "crossesLbs": 53
+      }
+    },
+    {
+      "id": "babolat-vs-touch",
+      "brand": "Babolat",
+      "name": "VS Touch",
+      "spec": {
+        "gauge": "1.30 mm",
+        "type": "Tripa natural",
+        "mainsLbs": 57,
+        "crossesLbs": 55
+      }
+    },
+    {
+      "id": "solinco-hyper-g",
+      "brand": "Solinco",
+      "name": "Hyper-G",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster",
+        "mainsLbs": 50,
+        "crossesLbs": 48
+      }
+    },
+    {
+      "id": "solinco-tour-bite",
+      "brand": "Solinco",
+      "name": "Tour Bite",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster texturizado",
+        "mainsLbs": 50,
+        "crossesLbs": 48
+      }
+    },
+    {
+      "id": "solinco-confidential",
+      "brand": "Solinco",
+      "name": "Confidential",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster",
+        "mainsLbs": 50,
+        "crossesLbs": 48
+      }
+    },
+    {
+      "id": "solinco-hyper-g-soft",
+      "brand": "Solinco",
+      "name": "Hyper-G Soft",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster macio",
+        "mainsLbs": 50,
+        "crossesLbs": 48
+      }
+    },
+    {
+      "id": "wilson-nxt",
+      "brand": "Wilson",
+      "name": "NXT",
+      "spec": {
+        "gauge": "1.30 mm",
+        "type": "Multifilamento",
+        "mainsLbs": 55,
+        "crossesLbs": 53
+      }
+    },
+    {
+      "id": "wilson-revolve",
+      "brand": "Wilson",
+      "name": "Revolve",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster",
+        "mainsLbs": 52,
+        "crossesLbs": 50
+      }
+    },
+    {
+      "id": "wilson-natural-gut",
+      "brand": "Wilson",
+      "name": "Natural Gut",
+      "spec": {
+        "gauge": "1.30 mm",
+        "type": "Tripa natural",
+        "mainsLbs": 57,
+        "crossesLbs": 55
+      }
+    },
+    {
+      "id": "head-lynx-tour",
+      "brand": "Head",
+      "name": "Lynx Tour",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster",
+        "mainsLbs": 52,
+        "crossesLbs": 50
+      }
+    },
+    {
+      "id": "head-hawk-touch",
+      "brand": "Head",
+      "name": "Hawk Touch",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster",
+        "mainsLbs": 52,
+        "crossesLbs": 50
+      }
+    },
+    {
+      "id": "head-velocity-mlt",
+      "brand": "Head",
+      "name": "Velocity MLT",
+      "spec": {
+        "gauge": "1.30 mm",
+        "type": "Multifilamento",
+        "mainsLbs": 55,
+        "crossesLbs": 53
+      }
+    },
+    {
+      "id": "tecnifibre-x-one-biphase",
+      "brand": "Tecnifibre",
+      "name": "X-One Biphase",
+      "spec": {
+        "gauge": "1.30 mm",
+        "type": "Multifilamento",
+        "mainsLbs": 55,
+        "crossesLbs": 53
+      }
+    },
+    {
+      "id": "tecnifibre-razor-code",
+      "brand": "Tecnifibre",
+      "name": "Razor Code",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster",
+        "mainsLbs": 52,
+        "crossesLbs": 50
+      }
+    },
+    {
+      "id": "tecnifibre-black-code",
+      "brand": "Tecnifibre",
+      "name": "Black Code",
+      "spec": {
+        "gauge": "1.24 mm",
+        "type": "Poliéster",
+        "mainsLbs": 52,
+        "crossesLbs": 50
+      }
+    },
+    {
+      "id": "yonex-poly-tour-pro",
+      "brand": "Yonex",
+      "name": "Poly Tour Pro",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster",
+        "mainsLbs": 52,
+        "crossesLbs": 50
+      }
+    },
+    {
+      "id": "yonex-poly-tour-spin",
+      "brand": "Yonex",
+      "name": "Poly Tour Spin",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster texturizado",
+        "mainsLbs": 52,
+        "crossesLbs": 50
+      }
+    },
+    {
+      "id": "kirschbaum-max-power",
+      "brand": "Kirschbaum",
+      "name": "Max Power",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster",
+        "mainsLbs": 52,
+        "crossesLbs": 50
+      }
+    },
+    {
+      "id": "signum-pro-firestorm",
+      "brand": "Signum Pro",
+      "name": "Firestorm",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster",
+        "mainsLbs": 52,
+        "crossesLbs": 50
+      }
+    },
+    {
+      "id": "volkl-cyclone",
+      "brand": "Volkl",
+      "name": "Cyclone",
+      "spec": {
+        "gauge": "1.25 mm",
+        "type": "Poliéster",
+        "mainsLbs": 52,
+        "crossesLbs": 50
+      }
+    },
+    {
+      "id": "isospeed-cream",
+      "brand": "Isospeed",
+      "name": "Cream",
+      "spec": {
+        "gauge": "1.28 mm",
+        "type": "Multifilamento",
+        "mainsLbs": 54,
+        "crossesLbs": 52
+      }
+    }
+  ]
+}

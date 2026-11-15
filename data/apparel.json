@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "brands": [
+    "Nike",
+    "Adidas",
+    "Lacoste",
+    "Fila",
+    "Asics",
+    "Head",
+    "Wilson",
+    "Babolat",
+    "Yonex",
+    "Uniqlo",
+    "On",
+    "Sergio Tacchini",
+    "Ellesse",
+    "New Balance",
+    "Under Armour",
+    "Lotto",
+    "Castore",
+    "Lululemon"
+  ],
+  "pieces": [
+    "Camiseta",
+    "Polo",
+    "Regata",
+    "Shorts",
+    "Saia",
+    "Vestido",
+    "Jaqueta",
+    "Boné",
+    "Viseira",
+    "Meia",
+    "Calça",
+    "Top"
+  ]
+}

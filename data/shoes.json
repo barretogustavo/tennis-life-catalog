@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "asics-gel-resolution-9",
+      "brand": "Asics",
+      "model": "Gel-Resolution 9",
+      "details": "Estabilidade, todas as quadras",
+      "court": "todas"
+    },
+    {
+      "id": "asics-gel-resolution-9-clay",
+      "brand": "Asics",
+      "model": "Gel-Resolution 9 Clay",
+      "details": "Estabilidade, saibro",
+      "court": "saibro"
+    },
+    {
+      "id": "asics-solution-speed-ff-3",
+      "brand": "Asics",
+      "model": "Solution Speed FF 3",
+      "details": "Leve e rápido",
+      "court": "todas"
+    },
+    {
+      "id": "asics-court-ff-3",
+      "brand": "Asics",
+      "model": "Court FF 3",
+      "details": "Conforto e ajuste",
+      "court": "todas"
+    },
+    {
+      "id": "asics-gel-challenger-14",
+      "brand": "Asics",
+      "model": "Gel-Challenger 14",
+      "details": "Custo-benefício, todas as quadras",
+      "court": "todas"
+    },
+    {
+      "id": "asics-gel-game-9",
+      "brand": "Asics",
+      "model": "Gel-Game 9",
+      "details": "Entrada de linha estável",
+      "court": "todas"
+    },
+    {
+      "id": "nike-air-zoom-vapor-11",
+      "brand": "Nike",
+      "model": "Air Zoom Vapor 11",
+      "details": "Leve, todas as quadras",
+      "court": "todas"
+    },
+    {
+      "id": "nike-air-zoom-vapor-pro-2",
+      "brand": "Nike",
+      "model": "Air Zoom Vapor Pro 2",
+      "details": "Leve e responsivo",
+      "court": "todas"
+    },
+    {
+      "id": "nike-gp-challenge-pro",
+      "brand": "Nike",
+      "model": "GP Challenge Pro",
+      "details": "Amortecimento e estabilidade",
+      "court": "todas"
+    },
+    {
+      "id": "nike-court-lite-4",
+      "brand": "Nike",
+      "model": "Court Lite 4",
+      "details": "Custo-benefício",
+      "court": "todas"
+    },
+    {
+      "id": "adidas-barricade",
+      "brand": "Adidas",
+      "model": "Barricade",
+      "details": "Durabilidade e estabilidade",
+      "court": "todas"
+    },
+    {
+      "id": "adidas-adizero-ubersonic-4",
+      "brand": "Adidas",
+      "model": "Adizero Ubersonic 4",
+      "details": "Leve e veloz",
+      "court": "todas"
+    },
+    {
+      "id": "adidas-solematch-control-2",
+      "brand": "Adidas",
+      "model": "SoleMatch Control 2",
+      "details": "Estabilidade lateral",
+      "court": "todas"
+    },
+    {
+      "id": "adidas-courtjam-control-3",
+      "brand": "Adidas",
+      "model": "CourtJam Control 3",
+      "details": "Conforto diário",
+      "court": "todas"
+    },
+    {
+      "id": "babolat-jet-mach-3",
+      "brand": "Babolat",
+      "model": "Jet Mach 3",
+      "details": "Leve, pra jogo rápido",
+      "court": "todas"
+    },
+    {
+      "id": "babolat-propulse-fury-3",
+      "brand": "Babolat",
+      "model": "Propulse Fury 3",
+      "details": "Estabilidade e durabilidade",
+      "court": "todas"
+    },
+    {
+      "id": "babolat-sensa",
+      "brand": "Babolat",
+      "model": "Sensa",
+      "details": "Feminino, conforto",
+      "court": "todas"
+    },
+    {
+      "id": "wilson-rush-pro-40",
+      "brand": "Wilson",
+      "model": "Rush Pro 4.0",
+      "details": "Estabilidade",
+      "court": "todas"
+    },
+    {
+      "id": "wilson-kaos-swift-15",
+      "brand": "Wilson",
+      "model": "Kaos Swift 1.5",
+      "details": "Leve",
+      "court": "todas"
+    },
+    {
+      "id": "head-sprint-pro-35",
+      "brand": "Head",
+      "model": "Sprint Pro 3.5",
+      "details": "Leve e confortável",
+      "court": "todas"
+    },
+    {
+      "id": "head-revolt-pro-45",
+      "brand": "Head",
+      "model": "Revolt Pro 4.5",
+      "details": "Estabilidade",
+      "court": "todas"
+    },
+    {
+      "id": "yonex-power-cushion-eclipsion-5",
+      "brand": "Yonex",
+      "model": "Power Cushion Eclipsion 5",
+      "details": "Amortecimento e estabilidade",
+      "court": "todas"
+    },
+    {
+      "id": "yonex-power-cushion-ad-accel",
+      "brand": "Yonex",
+      "model": "Power Cushion AD-Accel",
+      "details": "Leve",
+      "court": "todas"
+    },
+    {
+      "id": "k-swiss-hypercourt-supreme-2",
+      "brand": "K-Swiss",
+      "model": "Hypercourt Supreme 2",
+      "details": "Estabilidade e conforto",
+      "court": "todas"
+    },
+    {
+      "id": "new-balance-fresh-foam-x-ct-rally",
+      "brand": "New Balance",
+      "model": "Fresh Foam X CT-Rally",
+      "details": "Amortecimento",
+      "court": "todas"
+    },
+    {
+      "id": "new-balance-fuelcell-lav-v2",
+      "brand": "New Balance",
+      "model": "FuelCell Lav V2",
+      "details": "Leve e responsivo",
+      "court": "todas"
+    },
+    {
+      "id": "mizuno-wave-exceed-tour-6",
+      "brand": "Mizuno",
+      "model": "Wave Exceed Tour 6",
+      "details": "Estabilidade e conforto",
+      "court": "todas"
+    },
+    {
+      "id": "olympikus-ace",
+      "brand": "Olympikus",
+      "model": "Ace",
+      "details": "Custo-benefício",
+      "court": "todas"
+    },
+    {
+      "id": "fila-axilus-2-energized",
+      "brand": "Fila",
+      "model": "Axilus 2 Energized",
+      "details": "Estabilidade",
+      "court": "todas"
+    },
+    {
+      "id": "lotto-mirage-100-spd",
+      "brand": "Lotto",
+      "model": "Mirage 100 SPD",
+      "details": "Leve",
+      "court": "todas"
+    }
+  ]
+}

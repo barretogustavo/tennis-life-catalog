@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "wilson-pro-overgrip",
+      "brand": "Wilson",
+      "model": "Pro Overgrip",
+      "details": "Overgrip macio, pacote com 3"
+    },
+    {
+      "id": "wilson-comfort-pro-overgrip",
+      "brand": "Wilson",
+      "model": "Comfort Pro Overgrip",
+      "details": "Overgrip macio e absorvente"
+    },
+    {
+      "id": "tourna-grip-original",
+      "brand": "Tourna",
+      "model": "Grip Original",
+      "details": "Overgrip seco, pra mão que sua"
+    },
+    {
+      "id": "tourna-mega-tac",
+      "brand": "Tourna",
+      "model": "Mega Tac",
+      "details": "Overgrip bem pegajoso"
+    },
+    {
+      "id": "babolat-vs-original",
+      "brand": "Babolat",
+      "model": "VS Original",
+      "details": "Overgrip fino e seco"
+    },
+    {
+      "id": "babolat-pro-tour",
+      "brand": "Babolat",
+      "model": "Pro Tour",
+      "details": "Overgrip clássico"
+    },
+    {
+      "id": "yonex-super-grap",
+      "brand": "Yonex",
+      "model": "Super Grap",
+      "details": "Overgrip macio e durável"
+    },
+    {
+      "id": "head-prime-tour",
+      "brand": "Head",
+      "model": "Prime Tour",
+      "details": "Overgrip seco"
+    },
+    {
+      "id": "head-hydrosorb-pro",
+      "brand": "Head",
+      "model": "Hydrosorb Pro",
+      "details": "Replacement grip confortável"
+    },
+    {
+      "id": "babolat-custom-damp",
+      "brand": "Babolat",
+      "model": "Custom Damp",
+      "details": "Antivibrador"
+    },
+    {
+      "id": "wilson-pro-feel",
+      "brand": "Wilson",
+      "model": "Pro Feel",
+      "details": "Antivibrador"
+    },
+    {
+      "id": "tourna-sampras-vibration-dampener",
+      "brand": "Tourna",
+      "model": "Sampras Vibration Dampener",
+      "details": "Antivibrador clássico"
+    },
+    {
+      "id": "nike-munhequeira-swoosh",
+      "brand": "Nike",
+      "model": "Munhequeira Swoosh",
+      "details": "Par de munhequeiras"
+    },
+    {
+      "id": "adidas-munhequeira-tennis-l",
+      "brand": "Adidas",
+      "model": "Munhequeira Tennis L",
+      "details": "Par de munhequeiras"
+    },
+    {
+      "id": "wilson-tower-ball-basket",
+      "brand": "Wilson",
+      "model": "Tower Ball Basket",
+      "details": "Cesto de bolinhas"
+    }
+  ]
+}

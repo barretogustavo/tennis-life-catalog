@@ -1,0 +1,26 @@
+name: validate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Rebuild index hashes
+        run: node scripts/build_index.mjs
+      - name: Validate catalog
+        run: node scripts/validate.mjs
+      - name: Fail if index drifted
+        run: |
+          if ! git diff --quiet -- data/index.json; then
+            echo "data/index.json is out of date. Run: node scripts/build_index.mjs"
+            git diff -- data/index.json
+            exit 1
+          fi

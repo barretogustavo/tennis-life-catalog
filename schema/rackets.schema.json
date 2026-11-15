@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["schemaVersion", "items"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "brand", "model", "specs"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "brand": { "type": "string", "minLength": 1 },
+          "model": { "type": "string", "minLength": 1 },
+          "details": { "type": "string" },
+          "specs": {
+            "type": "object",
+            "required": ["weightG", "headSizeSqIn", "pattern", "balance", "stiffnessRa"],
+            "properties": {
+              "weightG": { "type": "number" },
+              "headSizeSqIn": { "type": "number" },
+              "lengthCm": { "type": "number" },
+              "pattern": { "type": "string" },
+              "balance": { "type": "string" },
+              "stiffnessRa": { "type": "number" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

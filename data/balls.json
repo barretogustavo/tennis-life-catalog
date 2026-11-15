@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "wilson-us-open",
+      "brand": "Wilson",
+      "model": "US Open",
+      "details": "Pressurizada, tubo com 3",
+      "pressurized": true,
+      "tubeCount": 3
+    },
+    {
+      "id": "wilson-roland-garros-clay",
+      "brand": "Wilson",
+      "model": "Roland Garros Clay",
+      "details": "Pressurizada, feita pro saibro",
+      "pressurized": true,
+      "tubeCount": 4
+    },
+    {
+      "id": "wilson-championship",
+      "brand": "Wilson",
+      "model": "Championship",
+      "details": "Pressurizada, dia a dia",
+      "pressurized": true,
+      "tubeCount": 3
+    },
+    {
+      "id": "wilson-triniti",
+      "brand": "Wilson",
+      "model": "Triniti",
+      "details": "Pressurizada, mais durável",
+      "pressurized": true,
+      "tubeCount": 3
+    },
+    {
+      "id": "head-tour",
+      "brand": "Head",
+      "model": "Tour",
+      "details": "Pressurizada, tubo com 4",
+      "pressurized": true,
+      "tubeCount": 4
+    },
+    {
+      "id": "head-atp",
+      "brand": "Head",
+      "model": "ATP",
+      "details": "Pressurizada, todas as quadras",
+      "pressurized": true,
+      "tubeCount": 4
+    },
+    {
+      "id": "head-championship",
+      "brand": "Head",
+      "model": "Championship",
+      "details": "Pressurizada, custo-benefício",
+      "pressurized": true,
+      "tubeCount": 3
+    },
+    {
+      "id": "babolat-gold-championship",
+      "brand": "Babolat",
+      "model": "Gold Championship",
+      "details": "Pressurizada, tubo com 3",
+      "pressurized": true,
+      "tubeCount": 3
+    },
+    {
+      "id": "babolat-team-clay",
+      "brand": "Babolat",
+      "model": "Team Clay",
+      "details": "Pressurizada, saibro",
+      "pressurized": true,
+      "tubeCount": 4
+    },
+    {
+      "id": "dunlop-atp-championship",
+      "brand": "Dunlop",
+      "model": "ATP Championship",
+      "details": "Pressurizada, tubo com 3",
+      "pressurized": true,
+      "tubeCount": 3
+    },
+    {
+      "id": "dunlop-fort-all-court",
+      "brand": "Dunlop",
+      "model": "Fort All Court",
+      "details": "Pressurizada, durável",
+      "pressurized": true,
+      "tubeCount": 4
+    },
+    {
+      "id": "penn-championship",
+      "brand": "Penn",
+      "model": "Championship",
+      "details": "Pressurizada, dia a dia",
+      "pressurized": true,
+      "tubeCount": 3
+    },
+    {
+      "id": "slazenger-wimbledon",
+      "brand": "Slazenger",
+      "model": "Wimbledon",
+      "details": "Pressurizada, a oficial da grama",
+      "pressurized": true,
+      "tubeCount": 4
+    },
+    {
+      "id": "tecnifibre-x-one",
+      "brand": "Tecnifibre",
+      "model": "X-One",
+      "details": "Pressurizada, tubo com 4",
+      "pressurized": true,
+      "tubeCount": 4
+    },
+    {
+      "id": "yonex-tour",
+      "brand": "Yonex",
+      "model": "Tour",
+      "details": "Pressurizada",
+      "pressurized": true,
+      "tubeCount": 4
+    }
+  ]
+}

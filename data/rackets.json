@@ -1,0 +1,635 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "babolat-pure-drive",
+      "brand": "Babolat",
+      "model": "Pure Drive",
+      "details": "Potência e spin, a clássica azul",
+      "specs": {
+        "weightG": 300,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 71
+      }
+    },
+    {
+      "id": "babolat-pure-drive-lite",
+      "brand": "Babolat",
+      "model": "Pure Drive Lite",
+      "details": "Versão leve da Pure Drive",
+      "specs": {
+        "weightG": 270,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "33 cm",
+        "stiffnessRa": 70
+      }
+    },
+    {
+      "id": "babolat-pure-drive-98",
+      "brand": "Babolat",
+      "model": "Pure Drive 98",
+      "details": "Pure Drive com cabeça menor",
+      "specs": {
+        "weightG": 305,
+        "headSizeSqIn": 98,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 68
+      }
+    },
+    {
+      "id": "babolat-pure-drive-110",
+      "brand": "Babolat",
+      "model": "Pure Drive 110",
+      "details": "Cabeça grande, fácil de usar",
+      "specs": {
+        "weightG": 255,
+        "headSizeSqIn": 110,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "34 cm",
+        "stiffnessRa": 70
+      }
+    },
+    {
+      "id": "babolat-pure-aero",
+      "brand": "Babolat",
+      "model": "Pure Aero",
+      "details": "Feita pro topspin",
+      "specs": {
+        "weightG": 300,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 67
+      }
+    },
+    {
+      "id": "babolat-pure-aero-98",
+      "brand": "Babolat",
+      "model": "Pure Aero 98",
+      "details": "A do Alcaraz",
+      "specs": {
+        "weightG": 305,
+        "headSizeSqIn": 98,
+        "lengthCm": 68.5,
+        "pattern": "16x20",
+        "balance": "32 cm",
+        "stiffnessRa": 66
+      }
+    },
+    {
+      "id": "babolat-pure-aero-rafa",
+      "brand": "Babolat",
+      "model": "Pure Aero Rafa",
+      "details": "Edição Rafa, ainda mais spin",
+      "specs": {
+        "weightG": 300,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 67
+      }
+    },
+    {
+      "id": "babolat-pure-strike-98-16x19",
+      "brand": "Babolat",
+      "model": "Pure Strike 98 16x19",
+      "details": "Controle com pegada agressiva",
+      "specs": {
+        "weightG": 305,
+        "headSizeSqIn": 98,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 66
+      }
+    },
+    {
+      "id": "babolat-pure-strike-100",
+      "brand": "Babolat",
+      "model": "Pure Strike 100",
+      "details": "Controle mais tolerante",
+      "specs": {
+        "weightG": 300,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 67
+      }
+    },
+    {
+      "id": "babolat-boost-drive",
+      "brand": "Babolat",
+      "model": "Boost Drive",
+      "details": "Leve, pra quem tá começando",
+      "specs": {
+        "weightG": 260,
+        "headSizeSqIn": 105,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "34 cm",
+        "stiffnessRa": 72
+      }
+    },
+    {
+      "id": "wilson-blade-98-16x19-v9",
+      "brand": "Wilson",
+      "model": "Blade 98 16x19 v9",
+      "details": "Controle e sensação",
+      "specs": {
+        "weightG": 305,
+        "headSizeSqIn": 98,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 62
+      }
+    },
+    {
+      "id": "wilson-blade-98-18x20-v9",
+      "brand": "Wilson",
+      "model": "Blade 98 18x20 v9",
+      "details": "Controle máximo, padrão fechado",
+      "specs": {
+        "weightG": 305,
+        "headSizeSqIn": 98,
+        "lengthCm": 68.5,
+        "pattern": "18x20",
+        "balance": "32 cm",
+        "stiffnessRa": 62.0
+      }
+    },
+    {
+      "id": "wilson-blade-100-v9",
+      "brand": "Wilson",
+      "model": "Blade 100 v9",
+      "details": "Blade mais tolerante",
+      "specs": {
+        "weightG": 300,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 63
+      }
+    },
+    {
+      "id": "wilson-blade-98l-v9",
+      "brand": "Wilson",
+      "model": "Blade 98L v9",
+      "details": "Blade leve",
+      "specs": {
+        "weightG": 285,
+        "headSizeSqIn": 98,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "33 cm",
+        "stiffnessRa": 62
+      }
+    },
+    {
+      "id": "wilson-pro-staff-97-v14",
+      "brand": "Wilson",
+      "model": "Pro Staff 97 v14",
+      "details": "Clássica, estável e precisa",
+      "specs": {
+        "weightG": 315,
+        "headSizeSqIn": 97,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "31 cm",
+        "stiffnessRa": 66
+      }
+    },
+    {
+      "id": "wilson-pro-staff-97l-v14",
+      "brand": "Wilson",
+      "model": "Pro Staff 97L v14",
+      "details": "Pro Staff mais leve",
+      "specs": {
+        "weightG": 290,
+        "headSizeSqIn": 97,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 66
+      }
+    },
+    {
+      "id": "wilson-clash-100-v2",
+      "brand": "Wilson",
+      "model": "Clash 100 v2",
+      "details": "Flexível e confortável",
+      "specs": {
+        "weightG": 295,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32,5 cm",
+        "stiffnessRa": 55
+      }
+    },
+    {
+      "id": "wilson-clash-98-v2",
+      "brand": "Wilson",
+      "model": "Clash 98 v2",
+      "details": "Clash com mais precisão",
+      "specs": {
+        "weightG": 310,
+        "headSizeSqIn": 98,
+        "lengthCm": 68.5,
+        "pattern": "16x20",
+        "balance": "32 cm",
+        "stiffnessRa": 56
+      }
+    },
+    {
+      "id": "wilson-ultra-100-v4",
+      "brand": "Wilson",
+      "model": "Ultra 100 v4",
+      "details": "Potência fácil",
+      "specs": {
+        "weightG": 300,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 72
+      }
+    },
+    {
+      "id": "wilson-shift-99-v1",
+      "brand": "Wilson",
+      "model": "Shift 99 v1",
+      "details": "Spin com flexão vertical",
+      "specs": {
+        "weightG": 300,
+        "headSizeSqIn": 99,
+        "lengthCm": 68.5,
+        "pattern": "16x20",
+        "balance": "32 cm",
+        "stiffnessRa": 66
+      }
+    },
+    {
+      "id": "head-speed-mp",
+      "brand": "Head",
+      "model": "Speed MP",
+      "details": "Equilíbrio entre controle e potência",
+      "specs": {
+        "weightG": 300,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 64
+      }
+    },
+    {
+      "id": "head-speed-pro",
+      "brand": "Head",
+      "model": "Speed Pro",
+      "details": "Pesada e precisa, padrão fechado",
+      "specs": {
+        "weightG": 310,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "18x20",
+        "balance": "31,5 cm",
+        "stiffnessRa": 64
+      }
+    },
+    {
+      "id": "head-speed-team",
+      "brand": "Head",
+      "model": "Speed Team",
+      "details": "Speed mais leve",
+      "specs": {
+        "weightG": 285,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "33 cm",
+        "stiffnessRa": 64
+      }
+    },
+    {
+      "id": "head-radical-mp",
+      "brand": "Head",
+      "model": "Radical MP",
+      "details": "All-court versátil",
+      "specs": {
+        "weightG": 300,
+        "headSizeSqIn": 98,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 66
+      }
+    },
+    {
+      "id": "head-extreme-mp",
+      "brand": "Head",
+      "model": "Extreme MP",
+      "details": "Spin e potência",
+      "specs": {
+        "weightG": 300,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 67
+      }
+    },
+    {
+      "id": "head-gravity-mp",
+      "brand": "Head",
+      "model": "Gravity MP",
+      "details": "Cabeça grande e muito controle",
+      "specs": {
+        "weightG": 295,
+        "headSizeSqIn": 104,
+        "lengthCm": 68.5,
+        "pattern": "16x20",
+        "balance": "32,5 cm",
+        "stiffnessRa": 61
+      }
+    },
+    {
+      "id": "head-prestige-mp",
+      "brand": "Head",
+      "model": "Prestige MP",
+      "details": "Toque clássico",
+      "specs": {
+        "weightG": 320,
+        "headSizeSqIn": 99,
+        "lengthCm": 68.5,
+        "pattern": "18x19",
+        "balance": "31 cm",
+        "stiffnessRa": 63
+      }
+    },
+    {
+      "id": "head-boom-mp",
+      "brand": "Head",
+      "model": "Boom MP",
+      "details": "Potência com conforto",
+      "specs": {
+        "weightG": 295,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32,5 cm",
+        "stiffnessRa": 68
+      }
+    },
+    {
+      "id": "yonex-ezone-98",
+      "brand": "Yonex",
+      "model": "EZONE 98",
+      "details": "Conforto e potência controlada",
+      "specs": {
+        "weightG": 305,
+        "headSizeSqIn": 98,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "31,5 cm",
+        "stiffnessRa": 64
+      }
+    },
+    {
+      "id": "yonex-ezone-100",
+      "brand": "Yonex",
+      "model": "EZONE 100",
+      "details": "Potência com conforto",
+      "specs": {
+        "weightG": 300,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 69
+      }
+    },
+    {
+      "id": "yonex-ezone-98l",
+      "brand": "Yonex",
+      "model": "EZONE 98L",
+      "details": "EZONE leve",
+      "specs": {
+        "weightG": 285,
+        "headSizeSqIn": 98,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32,5 cm",
+        "stiffnessRa": 64
+      }
+    },
+    {
+      "id": "yonex-vcore-98",
+      "brand": "Yonex",
+      "model": "VCORE 98",
+      "details": "Spin e sensação",
+      "specs": {
+        "weightG": 305,
+        "headSizeSqIn": 98,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "31,5 cm",
+        "stiffnessRa": 63
+      }
+    },
+    {
+      "id": "yonex-vcore-100",
+      "brand": "Yonex",
+      "model": "VCORE 100",
+      "details": "Spin tolerante",
+      "specs": {
+        "weightG": 300,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 65
+      }
+    },
+    {
+      "id": "yonex-percept-97",
+      "brand": "Yonex",
+      "model": "Percept 97",
+      "details": "Controle e estabilidade",
+      "specs": {
+        "weightG": 310,
+        "headSizeSqIn": 97,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "31 cm",
+        "stiffnessRa": 62
+      }
+    },
+    {
+      "id": "yonex-percept-100",
+      "brand": "Yonex",
+      "model": "Percept 100",
+      "details": "Percept mais tolerante",
+      "specs": {
+        "weightG": 300,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 62
+      }
+    },
+    {
+      "id": "tecnifibre-tf40-305-16m",
+      "brand": "Tecnifibre",
+      "model": "TF40 305 16M",
+      "details": "Controle com toque macio",
+      "specs": {
+        "weightG": 305,
+        "headSizeSqIn": 98,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 65
+      }
+    },
+    {
+      "id": "tecnifibre-tfight-300-isoflex",
+      "brand": "Tecnifibre",
+      "model": "TFight 300 Isoflex",
+      "details": "Potência controlada",
+      "specs": {
+        "weightG": 300,
+        "headSizeSqIn": 98,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32,5 cm",
+        "stiffnessRa": 68
+      }
+    },
+    {
+      "id": "tecnifibre-tfight-305-isoflex",
+      "brand": "Tecnifibre",
+      "model": "TFight 305 Isoflex",
+      "details": "TFight um pouco mais pesada",
+      "specs": {
+        "weightG": 305,
+        "headSizeSqIn": 98,
+        "lengthCm": 68.5,
+        "pattern": "18x19",
+        "balance": "32 cm",
+        "stiffnessRa": 68
+      }
+    },
+    {
+      "id": "dunlop-cx-200",
+      "brand": "Dunlop",
+      "model": "CX 200",
+      "details": "Controle e sensação",
+      "specs": {
+        "weightG": 305,
+        "headSizeSqIn": 98,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 66
+      }
+    },
+    {
+      "id": "dunlop-sx-300",
+      "brand": "Dunlop",
+      "model": "SX 300",
+      "details": "Spin e potência",
+      "specs": {
+        "weightG": 300,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 69
+      }
+    },
+    {
+      "id": "dunlop-fx-500",
+      "brand": "Dunlop",
+      "model": "FX 500",
+      "details": "Potência fácil",
+      "specs": {
+        "weightG": 300,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 70
+      }
+    },
+    {
+      "id": "prince-phantom-100x",
+      "brand": "Prince",
+      "model": "Phantom 100X",
+      "details": "Bem flexível, muito conforto",
+      "specs": {
+        "weightG": 305,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "18x20",
+        "balance": "32 cm",
+        "stiffnessRa": 60
+      }
+    },
+    {
+      "id": "prince-textreme-tour-100p",
+      "brand": "Prince",
+      "model": "Textreme Tour 100P",
+      "details": "Controle moderno",
+      "specs": {
+        "weightG": 310,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "18x20",
+        "balance": "32 cm",
+        "stiffnessRa": 64
+      }
+    },
+    {
+      "id": "volkl-v-cell-8-300",
+      "brand": "Volkl",
+      "model": "V-Cell 8 300",
+      "details": "Conforto e spin",
+      "specs": {
+        "weightG": 300,
+        "headSizeSqIn": 100,
+        "lengthCm": 68.5,
+        "pattern": "16x18",
+        "balance": "32 cm",
+        "stiffnessRa": 68
+      }
+    },
+    {
+      "id": "volkl-v-cell-10-300",
+      "brand": "Volkl",
+      "model": "V-Cell 10 300",
+      "details": "Controle com conforto",
+      "specs": {
+        "weightG": 300,
+        "headSizeSqIn": 98,
+        "lengthCm": 68.5,
+        "pattern": "16x19",
+        "balance": "32 cm",
+        "stiffnessRa": 65
+      }
+    }
+  ]
+}
