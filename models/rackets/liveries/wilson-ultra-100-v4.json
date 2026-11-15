@@ -1,0 +1,56 @@
+{
+  "id": "wilson-ultra-100-v4",
+  "year": "2022 (v4)",
+  "source": "https://img.tennis-warehouse.com/watermark/rs.php?path=WU10V4-1.jpg",
+  "notes": "Metallic iridescent blue frame with a dark navy cap over the top of the head (about 1 to 11 o'clock); black grip, red W stencil.",
+  "palette": {
+    "main": "#1D6E9C",
+    "second": "#1A2440",
+    "third": "#3FA6C8",
+    "fourth": "#1A2440"
+  },
+  "finish": "metallic",
+  "head": [
+    {
+      "from": -90,
+      "to": 25,
+      "role": "main"
+    },
+    {
+      "from": 25,
+      "to": 155,
+      "role": "second"
+    },
+    {
+      "from": 155,
+      "to": 270,
+      "role": "main"
+    }
+  ],
+  "bumper": "second",
+  "throat": {
+    "left": "main",
+    "right": "main",
+    "bridge": "main"
+  },
+  "throatGraphics": [
+    {
+      "side": "left",
+      "from": 0.0,
+      "to": 0.35,
+      "role": "second",
+      "style": "blocks"
+    }
+  ],
+  "shaft": "main",
+  "strings": "#E6E6DE",
+  "stencil": {
+    "color": "#D8262E",
+    "shape": "wilson"
+  },
+  "grip": "#24272C",
+  "wraps": "#33363B",
+  "collar": "second",
+  "cap": "second",
+  "capBand": "main"
+}

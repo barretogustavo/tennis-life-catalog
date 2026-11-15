@@ -1,0 +1,76 @@
+{
+  "id": "yonex-ezone-98l",
+  "year": "2025 (8th gen)",
+  "source": "https://www.tennis-warehouse.com/descpageRCYONEX-EZ98BB.html",
+  "notes": "No 2025 98L photo found (only an old 2017 lime one); assumed same Blast Blue cosmetic as the 2025 EZONE 98/100 family.",
+  "palette": {
+    "main": "#2D5BD0",
+    "second": "#1E3A9A",
+    "third": "#3FD6B4",
+    "fourth": "#F2F4F6"
+  },
+  "finish": "metallic",
+  "head": [
+    {
+      "from": -90,
+      "to": -30,
+      "role": "main"
+    },
+    {
+      "from": -30,
+      "to": -12,
+      "role": "third"
+    },
+    {
+      "from": -12,
+      "to": 60,
+      "role": "main"
+    },
+    {
+      "from": 60,
+      "to": 120,
+      "role": "second"
+    },
+    {
+      "from": 120,
+      "to": 200,
+      "role": "main"
+    },
+    {
+      "from": 200,
+      "to": 222,
+      "role": "third"
+    },
+    {
+      "from": 222,
+      "to": 270,
+      "role": "main"
+    }
+  ],
+  "bumper": "second",
+  "throat": {
+    "left": "main",
+    "right": "main",
+    "bridge": "main"
+  },
+  "throatGraphics": [
+    {
+      "side": "left",
+      "from": 0.25,
+      "to": 0.7,
+      "role": "fourth",
+      "style": "blocks"
+    }
+  ],
+  "shaft": "main",
+  "strings": "#F2F2EE",
+  "stencil": {
+    "color": "#D8262E",
+    "shape": "yonex"
+  },
+  "grip": "#EEF0F0",
+  "wraps": "#DADDDE",
+  "collar": "second",
+  "cap": "second",
+  "capBand": "main"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "babolat-boost-drive",
+  "year": "2024",
+  "source": "https://img.tennis-warehouse.com/watermark/rs.php?path=BBSTDR-1.jpg",
+  "notes": "Navy frame with light grey upper-left sides, orange blocks on the right side and top, white BOOST lettering on the left throat arm, orange accent on the right arm, black grip.",
+  "palette": {
+    "main": "#1F2638",
+    "second": "#F05A1E",
+    "third": "#D9DCDF",
+    "fourth": "#1F2638"
+  },
+  "finish": "matte",
+  "head": [
+    {
+      "from": -90,
+      "to": -20,
+      "role": "main"
+    },
+    {
+      "from": -20,
+      "to": 20,
+      "role": "second"
+    },
+    {
+      "from": 20,
+      "to": 40,
+      "role": "main"
+    },
+    {
+      "from": 40,
+      "to": 75,
+      "role": "second"
+    },
+    {
+      "from": 75,
+      "to": 180,
+      "role": "main"
+    },
+    {
+      "from": 180,
+      "to": 215,
+      "role": "third"
+    },
+    {
+      "from": 215,
+      "to": 270,
+      "role": "main"
+    }
+  ],
+  "bumper": "main",
+  "throat": {
+    "left": "main",
+    "right": "main",
+    "bridge": "main"
+  },
+  "throatGraphics": [
+    {
+      "side": "left",
+      "from": 0.1,
+      "to": 0.8,
+      "role": "third",
+      "style": "blocks"
+    },
+    {
+      "side": "right",
+      "from": 0.05,
+      "to": 0.35,
+      "role": "second",
+      "style": "solid"
+    }
+  ],
+  "shaft": "main",
+  "strings": "#34363A",
+  "stencil": {
+    "color": "#F5F7FA",
+    "shape": "babolat"
+  },
+  "grip": "#1E1F22",
+  "wraps": "#2C2D31",
+  "collar": "main",
+  "cap": "main",
+  "capBand": "main"
+}

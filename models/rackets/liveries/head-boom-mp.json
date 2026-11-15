@@ -1,0 +1,63 @@
+{
+  "id": "head-boom-mp",
+  "year": "2024",
+  "source": "https://img.tennis-warehouse.com/watermark/rs.php?path=HBOOMM-1.jpg",
+  "notes": "Mint/teal frame with a gloss black top arc running from the upper right over to the left side; upper throat mint, lower throat and shaft black.",
+  "palette": {
+    "main": "#5FE3C0",
+    "second": "#1A1C1F",
+    "third": "#F2F2F2",
+    "fourth": "#5FE3C0"
+  },
+  "finish": "gloss",
+  "head": [
+    {
+      "from": -90,
+      "to": 25,
+      "role": "main"
+    },
+    {
+      "from": 25,
+      "to": 205,
+      "role": "second"
+    },
+    {
+      "from": 205,
+      "to": 270,
+      "role": "main"
+    }
+  ],
+  "bumper": "second",
+  "throat": {
+    "left": "main",
+    "right": "main",
+    "bridge": "main"
+  },
+  "throatGraphics": [
+    {
+      "side": "left",
+      "from": 0.5,
+      "to": 1.0,
+      "role": "second",
+      "style": "solid"
+    },
+    {
+      "side": "right",
+      "from": 0.45,
+      "to": 1.0,
+      "role": "second",
+      "style": "solid"
+    }
+  ],
+  "shaft": "second",
+  "strings": "#F2F2EE",
+  "stencil": {
+    "color": "#1A1C1F",
+    "shape": "head"
+  },
+  "grip": "#1C1C1E",
+  "wraps": "#2C2C2E",
+  "collar": "second",
+  "cap": "second",
+  "capBand": "main"
+}

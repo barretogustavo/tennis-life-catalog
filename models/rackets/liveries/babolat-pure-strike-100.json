@@ -1,0 +1,76 @@
+{
+  "id": "babolat-pure-strike-100",
+  "year": "2024 (gen 4)",
+  "source": "knowledge (TW image PS100 was the older black/red gen)",
+  "notes": "Gen 4 shares the 98's metallic grey with red-orange side blocks and dark top; black grip. Based on the PS98 gen4 image, not a PS100 photo.",
+  "palette": {
+    "main": "#8A9098",
+    "second": "#F2482A",
+    "third": "#1E1F22",
+    "fourth": "#F5F7FA"
+  },
+  "finish": "metallic",
+  "head": [
+    {
+      "from": -90,
+      "to": -40,
+      "role": "main"
+    },
+    {
+      "from": -40,
+      "to": 5,
+      "role": "second"
+    },
+    {
+      "from": 5,
+      "to": 60,
+      "role": "main"
+    },
+    {
+      "from": 60,
+      "to": 120,
+      "role": "third"
+    },
+    {
+      "from": 120,
+      "to": 175,
+      "role": "main"
+    },
+    {
+      "from": 175,
+      "to": 220,
+      "role": "second"
+    },
+    {
+      "from": 220,
+      "to": 270,
+      "role": "main"
+    }
+  ],
+  "bumper": "third",
+  "throat": {
+    "left": "main",
+    "right": "main",
+    "bridge": "main"
+  },
+  "throatGraphics": [
+    {
+      "side": "left",
+      "from": 0.3,
+      "to": 0.8,
+      "role": "third",
+      "style": "blocks"
+    }
+  ],
+  "shaft": "main",
+  "strings": "#E6E6DE",
+  "stencil": {
+    "color": "#1E1F22",
+    "shape": "babolat"
+  },
+  "grip": "#1A1B1E",
+  "wraps": "#2A2B2E",
+  "collar": "third",
+  "cap": "third",
+  "capBand": "second"
+}

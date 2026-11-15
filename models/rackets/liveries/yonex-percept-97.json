@@ -1,0 +1,66 @@
+{
+  "id": "yonex-percept-97",
+  "year": "2023 (1st gen)",
+  "source": "https://img.tennis-warehouse.com/watermark/rs.php?path=PERC97-1.jpg",
+  "notes": "Olive green frame with a pale sage throat/shaft; mint and dark-teal camo patches on the upper right of the head, dark bridge, red YONEX on throat; black grip.",
+  "palette": {
+    "main": "#4F9688",
+    "second": "#A9C8BC",
+    "third": "#2FB98A",
+    "fourth": "#2C5F5A"
+  },
+  "finish": "satin",
+  "head": [
+    {
+      "from": -90,
+      "to": -10,
+      "role": "main"
+    },
+    {
+      "from": -10,
+      "to": 30,
+      "role": "third"
+    },
+    {
+      "from": 30,
+      "to": 70,
+      "role": "fourth"
+    },
+    {
+      "from": 70,
+      "to": 225,
+      "role": "main"
+    },
+    {
+      "from": 225,
+      "to": 270,
+      "role": "second"
+    }
+  ],
+  "bumper": "main",
+  "throat": {
+    "left": "second",
+    "right": "second",
+    "bridge": "fourth"
+  },
+  "throatGraphics": [
+    {
+      "side": "left",
+      "from": 0.35,
+      "to": 0.7,
+      "role": "fourth",
+      "style": "blocks"
+    }
+  ],
+  "shaft": "second",
+  "strings": "#F2F2EE",
+  "stencil": {
+    "color": "#D8262E",
+    "shape": "yonex"
+  },
+  "grip": "#1C1C1E",
+  "wraps": "#2C2C2E",
+  "collar": "second",
+  "cap": "fourth",
+  "capBand": "second"
+}

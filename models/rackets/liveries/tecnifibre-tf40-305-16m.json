@@ -1,0 +1,68 @@
+{
+  "id": "tecnifibre-tf40-305-16m",
+  "year": "2024",
+  "source": "https://img.tennis-warehouse.com/watermark/rs.php?path=TF4016-1.jpg",
+  "notes": "Gloss white frame with black top/left edge accent, a red block on the upper right and blue block lower right; right throat arm and lower right head black, left arm white. Photo may be the previous TF40 gen, same layout.",
+  "palette": {
+    "main": "#F4F5F6",
+    "second": "#151517",
+    "third": "#E8242B",
+    "fourth": "#3036B8"
+  },
+  "finish": "gloss",
+  "head": [
+    {
+      "from": -90,
+      "to": -35,
+      "role": "second"
+    },
+    {
+      "from": -35,
+      "to": -20,
+      "role": "fourth"
+    },
+    {
+      "from": -20,
+      "to": 5,
+      "role": "main"
+    },
+    {
+      "from": 5,
+      "to": 30,
+      "role": "third"
+    },
+    {
+      "from": 30,
+      "to": 75,
+      "role": "main"
+    },
+    {
+      "from": 75,
+      "to": 150,
+      "role": "second"
+    },
+    {
+      "from": 150,
+      "to": 270,
+      "role": "main"
+    }
+  ],
+  "bumper": "second",
+  "throat": {
+    "left": "main",
+    "right": "second",
+    "bridge": "main"
+  },
+  "throatGraphics": [],
+  "shaft": "second",
+  "strings": "#F2F2EE",
+  "stencil": {
+    "color": "#1A1C1F",
+    "shape": "tecnifibre"
+  },
+  "grip": "#1C1C1E",
+  "wraps": "#2C2C2E",
+  "collar": "second",
+  "cap": "second",
+  "capBand": "main"
+}

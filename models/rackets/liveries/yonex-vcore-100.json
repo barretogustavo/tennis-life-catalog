@@ -1,0 +1,75 @@
+{
+  "id": "yonex-vcore-100",
+  "year": "2023 (7th gen)",
+  "source": "https://www.tennis-warehouse.com/descpageRCYONEX-YVC98.html",
+  "notes": "2023 VCORE 100 photo not found (code returned the 2021 Tango Red); used the shared 2023 Scarlet cosmetic seen on the VCORE 98.",
+  "palette": {
+    "main": "#E3261F",
+    "second": "#232A3E",
+    "third": "#2E7FE0",
+    "fourth": "#F5F5F5"
+  },
+  "finish": "gloss",
+  "head": [
+    {
+      "from": -90,
+      "to": -55,
+      "role": "second"
+    },
+    {
+      "from": -55,
+      "to": -30,
+      "role": "third"
+    },
+    {
+      "from": -30,
+      "to": 195,
+      "role": "main"
+    },
+    {
+      "from": 195,
+      "to": 270,
+      "role": "second"
+    }
+  ],
+  "bumper": "main",
+  "throat": {
+    "left": "main",
+    "right": "second",
+    "bridge": "second"
+  },
+  "throatGraphics": [
+    {
+      "side": "right",
+      "from": 0.0,
+      "to": 0.2,
+      "role": "third",
+      "style": "solid"
+    },
+    {
+      "side": "right",
+      "from": 0.45,
+      "to": 1.0,
+      "role": "main",
+      "style": "solid"
+    },
+    {
+      "side": "left",
+      "from": 0.3,
+      "to": 0.7,
+      "role": "fourth",
+      "style": "blocks"
+    }
+  ],
+  "shaft": "main",
+  "strings": "#F2F2EE",
+  "stencil": {
+    "color": "#D8262E",
+    "shape": "yonex"
+  },
+  "grip": "#1C1C1E",
+  "wraps": "#2C2C2E",
+  "collar": "main",
+  "cap": "second",
+  "capBand": "main"
+}

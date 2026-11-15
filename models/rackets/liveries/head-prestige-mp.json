@@ -1,0 +1,63 @@
+{
+  "id": "head-prestige-mp",
+  "year": "2023 (Auxetic)",
+  "source": "https://img.tennis-warehouse.com/watermark/rs.php?path=HPRMP-1.jpg",
+  "notes": "Dark charcoal/graphite frame with burgundy-red fades on the lower head sides and the upper throat arms and bridge; black grip.",
+  "palette": {
+    "main": "#2E2D31",
+    "second": "#7A2A26",
+    "third": "#1E1D20",
+    "fourth": "#2E2D31"
+  },
+  "finish": "matte",
+  "head": [
+    {
+      "from": -90,
+      "to": -50,
+      "role": "second"
+    },
+    {
+      "from": -50,
+      "to": 210,
+      "role": "main"
+    },
+    {
+      "from": 210,
+      "to": 270,
+      "role": "second"
+    }
+  ],
+  "bumper": "main",
+  "throat": {
+    "left": "main",
+    "right": "main",
+    "bridge": "second"
+  },
+  "throatGraphics": [
+    {
+      "side": "left",
+      "from": 0.0,
+      "to": 0.45,
+      "role": "second",
+      "style": "solid"
+    },
+    {
+      "side": "right",
+      "from": 0.0,
+      "to": 0.3,
+      "role": "second",
+      "style": "solid"
+    }
+  ],
+  "shaft": "main",
+  "strings": "#E6E6DE",
+  "stencil": {
+    "color": "#1E1D20",
+    "shape": "head"
+  },
+  "grip": "#1E1D20",
+  "wraps": "#2C2B2E",
+  "collar": "main",
+  "cap": "third",
+  "capBand": "second"
+}

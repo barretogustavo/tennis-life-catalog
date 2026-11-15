@@ -1,0 +1,63 @@
+{
+  "id": "wilson-shift-99-v1",
+  "year": "2023 (v1)",
+  "source": "none (image download failed; from memory)",
+  "notes": "From memory (download failed): matte off-white frame with an iridescent lavender/purple shift on the lower head sides and throat; white grip.",
+  "palette": {
+    "main": "#ECEAE6",
+    "second": "#A99BD0",
+    "third": "#2A2A30",
+    "fourth": "#C9C2E2"
+  },
+  "finish": "matte",
+  "head": [
+    {
+      "from": -90,
+      "to": -20,
+      "role": "second"
+    },
+    {
+      "from": -20,
+      "to": 200,
+      "role": "main"
+    },
+    {
+      "from": 200,
+      "to": 270,
+      "role": "second"
+    }
+  ],
+  "bumper": "main",
+  "throat": {
+    "left": "main",
+    "right": "main",
+    "bridge": "main"
+  },
+  "throatGraphics": [
+    {
+      "side": "left",
+      "from": 0.1,
+      "to": 0.6,
+      "role": "third",
+      "style": "blocks"
+    },
+    {
+      "side": "right",
+      "from": 0.0,
+      "to": 0.5,
+      "role": "fourth",
+      "style": "solid"
+    }
+  ],
+  "shaft": "main",
+  "strings": "#E6E6DE",
+  "stencil": {
+    "color": "#2A2A30",
+    "shape": "wilson"
+  },
+  "grip": "#ECEAE6",
+  "wraps": "#DAD7D2",
+  "collar": "main",
+  "cap": "main",
+  "capBand": "second"
+}

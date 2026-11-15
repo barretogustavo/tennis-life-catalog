@@ -1,0 +1,73 @@
+{
+  "id": "head-radical-mp",
+  "year": "2023 (Auxetic)",
+  "source": "none (image download failed; from memory)",
+  "notes": "From memory (download failed): dark navy frame with orange covering the upper head sides and light blue accents near the throat; black grip.",
+  "palette": {
+    "main": "#1B2440",
+    "second": "#F26A1B",
+    "third": "#5AB4E0",
+    "fourth": "#1B2440"
+  },
+  "finish": "gloss",
+  "head": [
+    {
+      "from": -90,
+      "to": -10,
+      "role": "main"
+    },
+    {
+      "from": -10,
+      "to": 60,
+      "role": "second"
+    },
+    {
+      "from": 60,
+      "to": 120,
+      "role": "main"
+    },
+    {
+      "from": 120,
+      "to": 190,
+      "role": "second"
+    },
+    {
+      "from": 190,
+      "to": 270,
+      "role": "main"
+    }
+  ],
+  "bumper": "main",
+  "throat": {
+    "left": "main",
+    "right": "main",
+    "bridge": "main"
+  },
+  "throatGraphics": [
+    {
+      "side": "left",
+      "from": 0.1,
+      "to": 0.5,
+      "role": "third",
+      "style": "blocks"
+    },
+    {
+      "side": "right",
+      "from": 0.1,
+      "to": 0.35,
+      "role": "second",
+      "style": "solid"
+    }
+  ],
+  "shaft": "main",
+  "strings": "#E6E6DE",
+  "stencil": {
+    "color": "#1B2440",
+    "shape": "head"
+  },
+  "grip": "#1E1F22",
+  "wraps": "#2A2B2E",
+  "collar": "main",
+  "cap": "main",
+  "capBand": "second"
+}

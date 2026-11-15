@@ -1,0 +1,681 @@
+{
+  "schemaVersion": 1,
+  "base": "models/rackets/_base.glb",
+  "items": [
+    {
+      "id": "babolat-pure-drive",
+      "brand": "Babolat",
+      "model": "Pure Drive",
+      "file": "models/rackets/babolat-pure-drive.glb",
+      "style": "Azul Clássico",
+      "finish": "gloss",
+      "colors": {
+        "main": "#1278E4",
+        "accent": "#181A1E",
+        "highlight": "#F5F7FA",
+        "strings": "#34363A",
+        "grip": "#181A1E"
+      }
+    },
+    {
+      "id": "babolat-pure-drive-lite",
+      "brand": "Babolat",
+      "model": "Pure Drive Lite",
+      "file": "models/rackets/babolat-pure-drive-lite.glb",
+      "style": "Azul Céu",
+      "finish": "gloss",
+      "colors": {
+        "main": "#4FA3F0",
+        "accent": "#1E2A3A",
+        "highlight": "#FFFFFF",
+        "strings": "#D9DEE5",
+        "grip": "#2A3442"
+      }
+    },
+    {
+      "id": "babolat-pure-drive-98",
+      "brand": "Babolat",
+      "model": "Pure Drive 98",
+      "file": "models/rackets/babolat-pure-drive-98.glb",
+      "style": "Azul Noturno",
+      "finish": "satin",
+      "colors": {
+        "main": "#0D4FA8",
+        "accent": "#0B0D12",
+        "highlight": "#9CC8FF",
+        "strings": "#2B2E33",
+        "grip": "#0B0D12"
+      }
+    },
+    {
+      "id": "babolat-pure-drive-110",
+      "brand": "Babolat",
+      "model": "Pure Drive 110",
+      "file": "models/rackets/babolat-pure-drive-110.glb",
+      "style": "Azul Gelo",
+      "finish": "gloss",
+      "colors": {
+        "main": "#7CC0F5",
+        "accent": "#F5F7FA",
+        "highlight": "#1278E4",
+        "strings": "#F0F0EA",
+        "grip": "#E9EDF2"
+      }
+    },
+    {
+      "id": "babolat-pure-aero",
+      "brand": "Babolat",
+      "model": "Pure Aero",
+      "file": "models/rackets/babolat-pure-aero.glb",
+      "style": "Amarelo Spin",
+      "finish": "gloss",
+      "colors": {
+        "main": "#F4D21E",
+        "accent": "#181A1E",
+        "highlight": "#F5F7FA",
+        "strings": "#F2E8A0",
+        "grip": "#181A1E"
+      }
+    },
+    {
+      "id": "babolat-pure-aero-98",
+      "brand": "Babolat",
+      "model": "Pure Aero 98",
+      "file": "models/rackets/babolat-pure-aero-98.glb",
+      "style": "Laranja Spin",
+      "finish": "gloss",
+      "colors": {
+        "main": "#F28A1C",
+        "accent": "#181A1E",
+        "highlight": "#F4D21E",
+        "strings": "#2B2E33",
+        "grip": "#181A1E"
+      }
+    },
+    {
+      "id": "babolat-pure-aero-rafa",
+      "brand": "Babolat",
+      "model": "Pure Aero Rafa",
+      "file": "models/rackets/babolat-pure-aero-rafa.glb",
+      "style": "Rafa Roxo",
+      "finish": "gloss",
+      "colors": {
+        "main": "#7B3FC4",
+        "accent": "#F4D21E",
+        "highlight": "#F28A1C",
+        "strings": "#F4D21E",
+        "grip": "#181A1E"
+      }
+    },
+    {
+      "id": "babolat-pure-strike-98-16x19",
+      "brand": "Babolat",
+      "model": "Pure Strike 98 16x19",
+      "file": "models/rackets/babolat-pure-strike-98-16x19.glb",
+      "style": "Vermelho Strike",
+      "finish": "satin",
+      "colors": {
+        "main": "#D7262E",
+        "accent": "#FFFFFF",
+        "highlight": "#181A1E",
+        "strings": "#E9E9E2",
+        "grip": "#181A1E"
+      }
+    },
+    {
+      "id": "babolat-pure-strike-100",
+      "brand": "Babolat",
+      "model": "Pure Strike 100",
+      "file": "models/rackets/babolat-pure-strike-100.glb",
+      "style": "Branco Strike",
+      "finish": "satin",
+      "colors": {
+        "main": "#F4F4F0",
+        "accent": "#D7262E",
+        "highlight": "#181A1E",
+        "strings": "#D7262E",
+        "grip": "#F4F4F0"
+      }
+    },
+    {
+      "id": "babolat-boost-drive",
+      "brand": "Babolat",
+      "model": "Boost Drive",
+      "file": "models/rackets/babolat-boost-drive.glb",
+      "style": "Azul Boost",
+      "finish": "gloss",
+      "colors": {
+        "main": "#2F8CE8",
+        "accent": "#10141A",
+        "highlight": "#BFE3FF",
+        "strings": "#E6E8EA",
+        "grip": "#10141A"
+      }
+    },
+    {
+      "id": "wilson-blade-98-16x19-v9",
+      "brand": "Wilson",
+      "model": "Blade 98 16x19 v9",
+      "file": "models/rackets/wilson-blade-98-16x19-v9.glb",
+      "style": "Verde Camaleão",
+      "finish": "metallic",
+      "colors": {
+        "main": "#1F5A3A",
+        "accent": "#0E1110",
+        "highlight": "#7A3E8E",
+        "strings": "#2A2C2B",
+        "grip": "#0E1110"
+      }
+    },
+    {
+      "id": "wilson-blade-98-18x20-v9",
+      "brand": "Wilson",
+      "model": "Blade 98 18x20 v9",
+      "file": "models/rackets/wilson-blade-98-18x20-v9.glb",
+      "style": "Verde Fosco",
+      "finish": "matte",
+      "colors": {
+        "main": "#2C4A38",
+        "accent": "#0E1110",
+        "highlight": "#B7C7B0",
+        "strings": "#E8E6DC",
+        "grip": "#0E1110"
+      }
+    },
+    {
+      "id": "wilson-blade-100-v9",
+      "brand": "Wilson",
+      "model": "Blade 100 v9",
+      "file": "models/rackets/wilson-blade-100-v9.glb",
+      "style": "Esmeralda",
+      "finish": "metallic",
+      "colors": {
+        "main": "#1B7A55",
+        "accent": "#0E1110",
+        "highlight": "#C9F2DE",
+        "strings": "#2A2C2B",
+        "grip": "#0E1110"
+      }
+    },
+    {
+      "id": "wilson-blade-98l-v9",
+      "brand": "Wilson",
+      "model": "Blade 98L v9",
+      "file": "models/rackets/wilson-blade-98l-v9.glb",
+      "style": "Menta",
+      "finish": "satin",
+      "colors": {
+        "main": "#5FBF94",
+        "accent": "#1E2B25",
+        "highlight": "#FFFFFF",
+        "strings": "#E8F3EC",
+        "grip": "#1E2B25"
+      }
+    },
+    {
+      "id": "wilson-pro-staff-97-v14",
+      "brand": "Wilson",
+      "model": "Pro Staff 97 v14",
+      "file": "models/rackets/wilson-pro-staff-97-v14.glb",
+      "style": "Preto Clássico",
+      "finish": "matte",
+      "colors": {
+        "main": "#141414",
+        "accent": "#5C1A1A",
+        "highlight": "#C9A86A",
+        "strings": "#2A2A2A",
+        "grip": "#141414"
+      }
+    },
+    {
+      "id": "wilson-pro-staff-97l-v14",
+      "brand": "Wilson",
+      "model": "Pro Staff 97L v14",
+      "file": "models/rackets/wilson-pro-staff-97l-v14.glb",
+      "style": "Bordô",
+      "finish": "matte",
+      "colors": {
+        "main": "#4A1A22",
+        "accent": "#141414",
+        "highlight": "#C9A86A",
+        "strings": "#E8E3D6",
+        "grip": "#141414"
+      }
+    },
+    {
+      "id": "wilson-clash-100-v2",
+      "brand": "Wilson",
+      "model": "Clash 100 v2",
+      "file": "models/rackets/wilson-clash-100-v2.glb",
+      "style": "Vermelho Clash",
+      "finish": "gloss",
+      "colors": {
+        "main": "#C3162B",
+        "accent": "#141414",
+        "highlight": "#FFFFFF",
+        "strings": "#2A2A2A",
+        "grip": "#141414"
+      }
+    },
+    {
+      "id": "wilson-clash-98-v2",
+      "brand": "Wilson",
+      "model": "Clash 98 v2",
+      "file": "models/rackets/wilson-clash-98-v2.glb",
+      "style": "Vinho Clash",
+      "finish": "satin",
+      "colors": {
+        "main": "#7E1023",
+        "accent": "#141414",
+        "highlight": "#F2B8C0",
+        "strings": "#E8E3D6",
+        "grip": "#141414"
+      }
+    },
+    {
+      "id": "wilson-ultra-100-v4",
+      "brand": "Wilson",
+      "model": "Ultra 100 v4",
+      "file": "models/rackets/wilson-ultra-100-v4.glb",
+      "style": "Azul Ultra",
+      "finish": "metallic",
+      "colors": {
+        "main": "#1E5FB3",
+        "accent": "#0D0F14",
+        "highlight": "#6FD3FF",
+        "strings": "#2B2E33",
+        "grip": "#0D0F14"
+      }
+    },
+    {
+      "id": "wilson-shift-99-v1",
+      "brand": "Wilson",
+      "model": "Shift 99 v1",
+      "file": "models/rackets/wilson-shift-99-v1.glb",
+      "style": "Branco Shift",
+      "finish": "satin",
+      "colors": {
+        "main": "#F2F2EE",
+        "accent": "#2E2E33",
+        "highlight": "#8A6CF0",
+        "strings": "#F2F2EE",
+        "grip": "#2E2E33"
+      }
+    },
+    {
+      "id": "head-speed-mp",
+      "brand": "Head",
+      "model": "Speed MP",
+      "file": "models/rackets/head-speed-mp.glb",
+      "style": "Speed Grafite",
+      "finish": "satin",
+      "colors": {
+        "main": "#2D2F33",
+        "accent": "#F2F2EE",
+        "highlight": "#D8E021",
+        "strings": "#E6E6DE",
+        "grip": "#141414"
+      }
+    },
+    {
+      "id": "head-speed-pro",
+      "brand": "Head",
+      "model": "Speed Pro",
+      "file": "models/rackets/head-speed-pro.glb",
+      "style": "Speed Preto",
+      "finish": "matte",
+      "colors": {
+        "main": "#121316",
+        "accent": "#F2F2EE",
+        "highlight": "#D8E021",
+        "strings": "#2A2A2A",
+        "grip": "#121316"
+      }
+    },
+    {
+      "id": "head-speed-team",
+      "brand": "Head",
+      "model": "Speed Team",
+      "file": "models/rackets/head-speed-team.glb",
+      "style": "Speed Branco",
+      "finish": "gloss",
+      "colors": {
+        "main": "#F2F2EE",
+        "accent": "#121316",
+        "highlight": "#D8E021",
+        "strings": "#D8E021",
+        "grip": "#F2F2EE"
+      }
+    },
+    {
+      "id": "head-radical-mp",
+      "brand": "Head",
+      "model": "Radical MP",
+      "file": "models/rackets/head-radical-mp.glb",
+      "style": "Laranja Radical",
+      "finish": "gloss",
+      "colors": {
+        "main": "#F06A1A",
+        "accent": "#14181F",
+        "highlight": "#3FA9F5",
+        "strings": "#2A2C30",
+        "grip": "#14181F"
+      }
+    },
+    {
+      "id": "head-extreme-mp",
+      "brand": "Head",
+      "model": "Extreme MP",
+      "file": "models/rackets/head-extreme-mp.glb",
+      "style": "Extreme Neon",
+      "finish": "gloss",
+      "colors": {
+        "main": "#C8E01E",
+        "accent": "#121316",
+        "highlight": "#F06A1A",
+        "strings": "#121316",
+        "grip": "#121316"
+      }
+    },
+    {
+      "id": "head-gravity-mp",
+      "brand": "Head",
+      "model": "Gravity MP",
+      "file": "models/rackets/head-gravity-mp.glb",
+      "style": "Gravity Dupla",
+      "finish": "satin",
+      "colors": {
+        "main": "#1F8FD6",
+        "accent": "#F04E7A",
+        "highlight": "#FFFFFF",
+        "strings": "#E6E6DE",
+        "grip": "#14181F"
+      }
+    },
+    {
+      "id": "head-prestige-mp",
+      "brand": "Head",
+      "model": "Prestige MP",
+      "file": "models/rackets/head-prestige-mp.glb",
+      "style": "Prestige Vinho",
+      "finish": "metallic",
+      "colors": {
+        "main": "#6E1A26",
+        "accent": "#121316",
+        "highlight": "#C9A86A",
+        "strings": "#2A2A2A",
+        "grip": "#121316"
+      }
+    },
+    {
+      "id": "head-boom-mp",
+      "brand": "Head",
+      "model": "Boom MP",
+      "file": "models/rackets/head-boom-mp.glb",
+      "style": "Boom Teal",
+      "finish": "gloss",
+      "colors": {
+        "main": "#13A5A0",
+        "accent": "#121316",
+        "highlight": "#F04E7A",
+        "strings": "#2A2C30",
+        "grip": "#121316"
+      }
+    },
+    {
+      "id": "yonex-ezone-98",
+      "brand": "Yonex",
+      "model": "EZONE 98",
+      "file": "models/rackets/yonex-ezone-98.glb",
+      "style": "Azul Safira",
+      "finish": "metallic",
+      "colors": {
+        "main": "#1B3FAE",
+        "accent": "#0D1020",
+        "highlight": "#4FD0FF",
+        "strings": "#2B2E33",
+        "grip": "#0D1020"
+      }
+    },
+    {
+      "id": "yonex-ezone-100",
+      "brand": "Yonex",
+      "model": "EZONE 100",
+      "file": "models/rackets/yonex-ezone-100.glb",
+      "style": "Azul Profundo",
+      "finish": "gloss",
+      "colors": {
+        "main": "#1F4FD0",
+        "accent": "#0D1020",
+        "highlight": "#FFFFFF",
+        "strings": "#E6E8EE",
+        "grip": "#0D1020"
+      }
+    },
+    {
+      "id": "yonex-ezone-98l",
+      "brand": "Yonex",
+      "model": "EZONE 98L",
+      "file": "models/rackets/yonex-ezone-98l.glb",
+      "style": "Azul Claro",
+      "finish": "satin",
+      "colors": {
+        "main": "#5B86E8",
+        "accent": "#20263A",
+        "highlight": "#FFFFFF",
+        "strings": "#EEF1F8",
+        "grip": "#20263A"
+      }
+    },
+    {
+      "id": "yonex-vcore-98",
+      "brand": "Yonex",
+      "model": "VCORE 98",
+      "file": "models/rackets/yonex-vcore-98.glb",
+      "style": "Vermelho Scarlet",
+      "finish": "gloss",
+      "colors": {
+        "main": "#C8102E",
+        "accent": "#121316",
+        "highlight": "#F2F2EE",
+        "strings": "#2A2A2A",
+        "grip": "#121316"
+      }
+    },
+    {
+      "id": "yonex-vcore-100",
+      "brand": "Yonex",
+      "model": "VCORE 100",
+      "file": "models/rackets/yonex-vcore-100.glb",
+      "style": "Rubi",
+      "finish": "metallic",
+      "colors": {
+        "main": "#A50F2A",
+        "accent": "#121316",
+        "highlight": "#F4A3B0",
+        "strings": "#E6E6DE",
+        "grip": "#121316"
+      }
+    },
+    {
+      "id": "yonex-percept-97",
+      "brand": "Yonex",
+      "model": "Percept 97",
+      "file": "models/rackets/yonex-percept-97.glb",
+      "style": "Verde Oliva",
+      "finish": "matte",
+      "colors": {
+        "main": "#4F6B3A",
+        "accent": "#121316",
+        "highlight": "#D6C27A",
+        "strings": "#2A2A2A",
+        "grip": "#121316"
+      }
+    },
+    {
+      "id": "yonex-percept-100",
+      "brand": "Yonex",
+      "model": "Percept 100",
+      "file": "models/rackets/yonex-percept-100.glb",
+      "style": "Verde Musgo",
+      "finish": "satin",
+      "colors": {
+        "main": "#5E7D46",
+        "accent": "#1E2618",
+        "highlight": "#F2F2EE",
+        "strings": "#E6E6DE",
+        "grip": "#1E2618"
+      }
+    },
+    {
+      "id": "tecnifibre-tf40-305-16m",
+      "brand": "Tecnifibre",
+      "model": "TF40 305 16M",
+      "file": "models/rackets/tecnifibre-tf40-305-16m.glb",
+      "style": "TF Vermelho",
+      "finish": "matte",
+      "colors": {
+        "main": "#B5121B",
+        "accent": "#F2F2EE",
+        "highlight": "#121316",
+        "strings": "#F2F2EE",
+        "grip": "#121316"
+      }
+    },
+    {
+      "id": "tecnifibre-tfight-300-isoflex",
+      "brand": "Tecnifibre",
+      "model": "TFight 300 Isoflex",
+      "file": "models/rackets/tecnifibre-tfight-300-isoflex.glb",
+      "style": "Isoflex Preto",
+      "finish": "satin",
+      "colors": {
+        "main": "#121316",
+        "accent": "#B5121B",
+        "highlight": "#F2F2EE",
+        "strings": "#2A2A2A",
+        "grip": "#121316"
+      }
+    },
+    {
+      "id": "tecnifibre-tfight-305-isoflex",
+      "brand": "Tecnifibre",
+      "model": "TFight 305 Isoflex",
+      "file": "models/rackets/tecnifibre-tfight-305-isoflex.glb",
+      "style": "Isoflex Cinza",
+      "finish": "metallic",
+      "colors": {
+        "main": "#4A4D52",
+        "accent": "#B5121B",
+        "highlight": "#F2F2EE",
+        "strings": "#E6E6DE",
+        "grip": "#121316"
+      }
+    },
+    {
+      "id": "dunlop-cx-200",
+      "brand": "Dunlop",
+      "model": "CX 200",
+      "file": "models/rackets/dunlop-cx-200.glb",
+      "style": "CX Vermelho",
+      "finish": "gloss",
+      "colors": {
+        "main": "#D2232A",
+        "accent": "#121316",
+        "highlight": "#F2F2EE",
+        "strings": "#2A2A2A",
+        "grip": "#121316"
+      }
+    },
+    {
+      "id": "dunlop-sx-300",
+      "brand": "Dunlop",
+      "model": "SX 300",
+      "file": "models/rackets/dunlop-sx-300.glb",
+      "style": "SX Amarelo",
+      "finish": "gloss",
+      "colors": {
+        "main": "#F2C21B",
+        "accent": "#121316",
+        "highlight": "#1F5FBF",
+        "strings": "#2A2A2A",
+        "grip": "#121316"
+      }
+    },
+    {
+      "id": "dunlop-fx-500",
+      "brand": "Dunlop",
+      "model": "FX 500",
+      "file": "models/rackets/dunlop-fx-500.glb",
+      "style": "FX Azul",
+      "finish": "satin",
+      "colors": {
+        "main": "#1F6FD0",
+        "accent": "#121316",
+        "highlight": "#F2C21B",
+        "strings": "#E6E6DE",
+        "grip": "#121316"
+      }
+    },
+    {
+      "id": "prince-phantom-100x",
+      "brand": "Prince",
+      "model": "Phantom 100X",
+      "file": "models/rackets/prince-phantom-100x.glb",
+      "style": "Phantom Grafite",
+      "finish": "matte",
+      "colors": {
+        "main": "#2E3236",
+        "accent": "#1E7F3C",
+        "highlight": "#F2F2EE",
+        "strings": "#E6E6DE",
+        "grip": "#121316"
+      }
+    },
+    {
+      "id": "prince-textreme-tour-100p",
+      "brand": "Prince",
+      "model": "Textreme Tour 100P",
+      "file": "models/rackets/prince-textreme-tour-100p.glb",
+      "style": "Tour Verde",
+      "finish": "gloss",
+      "colors": {
+        "main": "#1E7F3C",
+        "accent": "#121316",
+        "highlight": "#F2C21B",
+        "strings": "#2A2A2A",
+        "grip": "#121316"
+      }
+    },
+    {
+      "id": "volkl-v-cell-8-300",
+      "brand": "Volkl",
+      "model": "V-Cell 8 300",
+      "file": "models/rackets/volkl-v-cell-8-300.glb",
+      "style": "V-Cell Lima",
+      "finish": "gloss",
+      "colors": {
+        "main": "#B6D82A",
+        "accent": "#121316",
+        "highlight": "#F2F2EE",
+        "strings": "#2A2A2A",
+        "grip": "#121316"
+      }
+    },
+    {
+      "id": "volkl-v-cell-10-300",
+      "brand": "Volkl",
+      "model": "V-Cell 10 300",
+      "file": "models/rackets/volkl-v-cell-10-300.glb",
+      "style": "V-Cell Laranja",
+      "finish": "satin",
+      "colors": {
+        "main": "#F07A1A",
+        "accent": "#121316",
+        "highlight": "#B6D82A",
+        "strings": "#E6E6DE",
+        "grip": "#121316"
+      }
+    }
+  ]
+}

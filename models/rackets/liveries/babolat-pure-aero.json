@@ -1,0 +1,63 @@
+{
+  "id": "babolat-pure-aero",
+  "year": "2023 (8th gen)",
+  "source": "knowledge (no product image could be downloaded)",
+  "notes": "Bright yellow top and upper sides, black lower sides and black throat with yellow 'AERO' lettering, black grip. No image downloaded; from knowledge.",
+  "palette": {
+    "main": "#F5E21B",
+    "second": "#1A1B1E",
+    "third": "#F5F7FA",
+    "fourth": "#F5E21B"
+  },
+  "finish": "gloss",
+  "head": [
+    {
+      "from": -90,
+      "to": -10,
+      "role": "second"
+    },
+    {
+      "from": -10,
+      "to": 190,
+      "role": "main"
+    },
+    {
+      "from": 190,
+      "to": 270,
+      "role": "second"
+    }
+  ],
+  "bumper": "second",
+  "throat": {
+    "left": "second",
+    "right": "second",
+    "bridge": "second"
+  },
+  "throatGraphics": [
+    {
+      "side": "left",
+      "from": 0.25,
+      "to": 0.8,
+      "role": "main",
+      "style": "blocks"
+    },
+    {
+      "side": "right",
+      "from": 0.05,
+      "to": 0.3,
+      "role": "main",
+      "style": "solid"
+    }
+  ],
+  "shaft": "second",
+  "strings": "#E6E6DE",
+  "stencil": {
+    "color": "#1A1B1E",
+    "shape": "babolat"
+  },
+  "grip": "#1A1B1E",
+  "wraps": "#2A2B2E",
+  "collar": "second",
+  "cap": "second",
+  "capBand": "main"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "babolat-pure-drive-lite",
+  "year": "2021",
+  "source": "https://img.tennis-warehouse.com/watermark/rs.php?path=PD98R-1.jpg&nw=500",
+  "notes": "Same 2021 sky blue/navy livery as the Pure Drive. TW image found was an older-gen Lite, so the 2021 PD98 image was used as reference.",
+  "palette": {
+    "main": "#2E9BDA",
+    "second": "#1B2A4A",
+    "third": "#F5F7FA",
+    "fourth": "#E8463A"
+  },
+  "finish": "gloss",
+  "head": [
+    {
+      "from": -90,
+      "to": -45,
+      "role": "main"
+    },
+    {
+      "from": -45,
+      "to": -15,
+      "role": "second"
+    },
+    {
+      "from": -15,
+      "to": 60,
+      "role": "main"
+    },
+    {
+      "from": 60,
+      "to": 120,
+      "role": "second"
+    },
+    {
+      "from": 120,
+      "to": 195,
+      "role": "main"
+    },
+    {
+      "from": 195,
+      "to": 225,
+      "role": "second"
+    },
+    {
+      "from": 225,
+      "to": 270,
+      "role": "main"
+    }
+  ],
+  "bumper": "second",
+  "throat": {
+    "left": "main",
+    "right": "main",
+    "bridge": "main"
+  },
+  "throatGraphics": [
+    {
+      "side": "left",
+      "from": 0.2,
+      "to": 0.85,
+      "role": "second",
+      "style": "blocks"
+    },
+    {
+      "side": "right",
+      "from": 0.2,
+      "to": 0.85,
+      "role": "second",
+      "style": "blocks"
+    }
+  ],
+  "shaft": "main",
+  "strings": "#E6E6DE",
+  "stencil": {
+    "color": "#1B2A4A",
+    "shape": "babolat"
+  },
+  "grip": "#1A1B1E",
+  "wraps": "#2A2B2E",
+  "collar": "second",
+  "cap": "second",
+  "capBand": "main"
+}

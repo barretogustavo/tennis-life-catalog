@@ -39,6 +39,34 @@ Envelope for item lists:
 { "schemaVersion": 1, "items": [ { "id": "...", "brand": "...", "model": "..." } ] }
 ```
 
+## 3D racket models
+
+One `.glb` per racket in `data/rackets.json`, under `models/rackets/<id>.glb`.
+
+All models share the geometry of `models/rackets/_base.glb`; each one has its own style (color palette + finish). `models/rackets/index.json` lists the file, style name, finish and colors for every racket.
+
+| Material role | Base parts |
+| --- | --- |
+| `main` | `frame`, `throat`, `shaft`, `cap_band` |
+| `accent` | `frame_black`, `grommets`, `collar`, `cap` |
+| `highlight` | `frame_white`, `stencil` |
+| `strings` | `strings` |
+| `grip` | `handle`, `wraps` |
+
+Finishes: `gloss`, `satin`, `matte`, `metallic`.
+
+Raw URL example:
+
+```
+https://raw.githubusercontent.com/barretogustavo/tennis-life-catalog/main/models/rackets/babolat-pure-drive.glb
+```
+
+Regenerate after adding a racket (add its entry to `STYLES` in the script first):
+
+```bash
+python3 scripts/generate_racket_models.py
+```
+
 ## Contribute
 
 1. Edit or add items under `data/*.json` (stable `id`, unique brand+model).

@@ -1,0 +1,66 @@
+{
+  "id": "wilson-blade-100-v9",
+  "year": "2024 (v9)",
+  "source": "https://img.tennis-warehouse.com/watermark/rs.php?path=WB9816-1.jpg",
+  "notes": "Chameleon/metallic teal-green frame with a dark grey-black bumper band across the top, small lime grommet accents at the ends of the black band, black Wilson lettering on the left throat arm, black grip. Image is the 98 16x19; same cosmetic across the v9 line.",
+  "palette": {
+    "main": "#1D6B62",
+    "second": "#2A2D30",
+    "third": "#8BE04A",
+    "fourth": "#E2502A"
+  },
+  "finish": "metallic",
+  "head": [
+    {
+      "from": -90,
+      "to": 30,
+      "role": "main"
+    },
+    {
+      "from": 30,
+      "to": 36,
+      "role": "third"
+    },
+    {
+      "from": 36,
+      "to": 144,
+      "role": "second"
+    },
+    {
+      "from": 144,
+      "to": 150,
+      "role": "third"
+    },
+    {
+      "from": 150,
+      "to": 270,
+      "role": "main"
+    }
+  ],
+  "bumper": "second",
+  "throat": {
+    "left": "main",
+    "right": "main",
+    "bridge": "main"
+  },
+  "throatGraphics": [
+    {
+      "side": "left",
+      "from": 0.05,
+      "to": 0.55,
+      "role": "second",
+      "style": "blocks"
+    }
+  ],
+  "shaft": "main",
+  "strings": "#E6E6DE",
+  "stencil": {
+    "color": "#D8342C",
+    "shape": "wilson"
+  },
+  "grip": "#2B2D30",
+  "wraps": "#3A3D41",
+  "collar": "main",
+  "cap": "second",
+  "capBand": "main"
+}

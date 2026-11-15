@@ -1,0 +1,63 @@
+{
+  "id": "head-speed-team",
+  "year": "2024 (Auxetic 2.0)",
+  "source": "https://img.tennis-warehouse.com/watermark/rs.php?path=HSPDTM-1.jpg",
+  "notes": "2024 Speed: white/light-grey frame with the top of the head black from about 2 o'clock across to 8 o'clock; throat arms white near the head, turning black toward the shaft.",
+  "palette": {
+    "main": "#E6E8E8",
+    "second": "#1E1F22",
+    "third": "#9A9DA0",
+    "fourth": "#E6E8E8"
+  },
+  "finish": "satin",
+  "head": [
+    {
+      "from": -90,
+      "to": 20,
+      "role": "main"
+    },
+    {
+      "from": 20,
+      "to": 200,
+      "role": "second"
+    },
+    {
+      "from": 200,
+      "to": 270,
+      "role": "main"
+    }
+  ],
+  "bumper": "second",
+  "throat": {
+    "left": "main",
+    "right": "main",
+    "bridge": "main"
+  },
+  "throatGraphics": [
+    {
+      "side": "left",
+      "from": 0.55,
+      "to": 1.0,
+      "role": "second",
+      "style": "solid"
+    },
+    {
+      "side": "right",
+      "from": 0.55,
+      "to": 1.0,
+      "role": "second",
+      "style": "solid"
+    }
+  ],
+  "shaft": "second",
+  "strings": "#E6E6DE",
+  "stencil": {
+    "color": "#1E1F22",
+    "shape": "head"
+  },
+  "grip": "#1C1D20",
+  "wraps": "#2A2B2E",
+  "collar": "second",
+  "cap": "second",
+  "capBand": "third"
+}

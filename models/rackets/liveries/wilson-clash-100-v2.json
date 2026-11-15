@@ -1,0 +1,56 @@
+{
+  "id": "wilson-clash-100-v2",
+  "year": "2022 (v2)",
+  "source": "https://img.tennis-warehouse.com/watermark/rs.php?path=WC100V-1.jpg",
+  "notes": "Metallic red frame with a solid black upper head from ~2 to ~10 o'clock, black Wilson lettering on the left throat arm, black grip and cap.",
+  "palette": {
+    "main": "#B11E25",
+    "second": "#1E1F22",
+    "third": "#1E1F22",
+    "fourth": "#7A1218"
+  },
+  "finish": "metallic",
+  "head": [
+    {
+      "from": -90,
+      "to": 25,
+      "role": "main"
+    },
+    {
+      "from": 25,
+      "to": 155,
+      "role": "second"
+    },
+    {
+      "from": 155,
+      "to": 270,
+      "role": "main"
+    }
+  ],
+  "bumper": "second",
+  "throat": {
+    "left": "main",
+    "right": "main",
+    "bridge": "main"
+  },
+  "throatGraphics": [
+    {
+      "side": "left",
+      "from": 0.05,
+      "to": 0.6,
+      "role": "second",
+      "style": "blocks"
+    }
+  ],
+  "shaft": "main",
+  "strings": "#E6E6DE",
+  "stencil": {
+    "color": "#D8342C",
+    "shape": "wilson"
+  },
+  "grip": "#2B2D30",
+  "wraps": "#3A3D41",
+  "collar": "second",
+  "cap": "second",
+  "capBand": "main"
+}

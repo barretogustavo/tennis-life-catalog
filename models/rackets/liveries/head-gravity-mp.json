@@ -1,0 +1,51 @@
+{
+  "id": "head-gravity-mp",
+  "year": "2023 (Auxetic)",
+  "source": "none (image download failed; from memory)",
+  "notes": "From memory (download failed): teal-blue frame with orange-red on the right side of the head and right throat arm; black grip.",
+  "palette": {
+    "main": "#1F7FA6",
+    "second": "#F0602A",
+    "third": "#1E1F22",
+    "fourth": "#1F7FA6"
+  },
+  "finish": "gloss",
+  "head": [
+    {
+      "from": -90,
+      "to": 60,
+      "role": "second"
+    },
+    {
+      "from": 60,
+      "to": 270,
+      "role": "main"
+    }
+  ],
+  "bumper": "third",
+  "throat": {
+    "left": "main",
+    "right": "second",
+    "bridge": "main"
+  },
+  "throatGraphics": [
+    {
+      "side": "left",
+      "from": 0.2,
+      "to": 0.6,
+      "role": "third",
+      "style": "blocks"
+    }
+  ],
+  "shaft": "third",
+  "strings": "#E6E6DE",
+  "stencil": {
+    "color": "#1E1F22",
+    "shape": "head"
+  },
+  "grip": "#1E1F22",
+  "wraps": "#2A2B2E",
+  "collar": "third",
+  "cap": "third",
+  "capBand": "second"
+}
